@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "Performance-h.c"
-#include "Recherche-h.c"
+#include "Performance.h"
+#include "Recherche.h"
 
 // Fonction d'affichage de fichier principal
 void afficherFichierMain(FILE* Main) {
