@@ -77,7 +77,7 @@ int main(void) {
                 RechercherEpreuve();
                 break;
             case 4:
-                ResuméPerf();
+                ResumePerf();
                 break;
             case 5:
                 JO();
@@ -105,4 +105,5 @@ int main(void) {
 
     return 0;
 }
+
 
