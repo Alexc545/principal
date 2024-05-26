@@ -8,7 +8,7 @@ typedef struct {
   char nom[33]; 
 } athlete;
 
-void ResuméPerf(){
+void ResumePerf(){
   int max=0;
   int min=0;
   int moy=0;
