@@ -8,5 +8,3 @@ void RechercherAthlete();
 void RechercherDate();
 void RechercherEpreuve();
 #endif  
-
-
