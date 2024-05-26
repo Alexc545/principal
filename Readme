@@ -1,0 +1,21 @@
+Ce programme est une application de gestion des performances sportives des athlètes. Voici un aperçu des fonctionnalités offertes :
+
+    Affichage du fichier principal : L'utilisateur peut choisir d'afficher le nom de tous les athlètes présents dans le fichier principal.
+
+    Menu principal : L'utilisateur est invité à choisir parmi différentes options :
+        Consulter le fichier d'un athlète par rapport à son nom.
+        Rechercher un entraînement selon sa date.
+        Rechercher un entraînement selon son épreuve.
+        Afficher les performances d'un athlète selon une épreuve.
+        Sélectionner les athlètes pour les JO (Jeux Olympiques).
+        Voir l'évolution d'un athlète entre deux dates.
+
+    Fonctions associées : Chaque option du menu principal correspond à une fonction dédiée :
+        Recherche d'un athlète par nom (RechercherAthlete()).
+        Recherche d'entraînements par date (RechercherDate()).
+        Recherche d'entraînements par épreuve (RechercherEpreuve()).
+        Affichage des performances d'un athlète pour une épreuve donnée (ResuméPerf()).
+        Sélection des athlètes pour les JO (JO()).
+        Visualisation de l'évolution d'un athlète entre deux dates (Progression()).
+
+    Boucle de navigation : Après chaque sélection dans le menu, l'utilisateur peut choisir de continuer ou de quitter l'application.
