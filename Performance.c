@@ -126,7 +126,7 @@ void JO(){
       k=0;
   }
   fclose(Main);
-  //trier valeurs .temps du poiteurs pour avoir les 3 meilleurs, j'ai pas fait j'avais la flemme et j'ai oublier
+  
 }
 
 void Progression(){
